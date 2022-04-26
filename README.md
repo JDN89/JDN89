@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDN89
-- :incoming_envelope: Contact: jan.de.niels@gmail.com
+- 📨 Contact: jan.de.niels@gmail.com
 
 - 🌱 I _Learned_ Vue JS (Composition API), Express, PostgreSQL and TS (**2021** -DONE)
 - ✨ I’m _Currently learning_ C# and .NET CORE and I'm building an Issue Tracker app with the aforementioned technologies 
@@ -8,7 +8,12 @@
   -   RUST (I want to learn create some CLI related tools) (**2022 - 2023**), 
   -   DOCKER  and some DevOps related stuff next (**2022** - **2023**)
   
-- I'm currenly _reading_ C# in Depth by Jon Skeet and Clean Architecture by Robert Cecil Martin
+- 📖 I'm currenly _reading_ C# in Depth by Jon Skeet and Clean Architecture by Robert Cecil Martin
+
+- 📕 what I read:
+  -   Head First Javascript (2019)
+  -   A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow (2021)   
+  
 
 <!---
 JDN89/JDN89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
