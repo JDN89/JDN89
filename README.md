@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDN89
-- 📨 Contact: jan.de.niels@gmail.com
+- 📨 Contact: jan.de.niels <at> gmail.com
 
 - 🌱 I _Learned_ Vue JS (Composition API), Express, PostgreSQL and TS (**2021** -DONE)
 - ✨ I’m _Currently learning_ C# and .NET CORE and I'm building an Issue Tracker app with the aforementioned technologies 
