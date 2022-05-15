@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @JDN89
 - 📨 Contact: `jan.de.niels <at> gmail.com`
 
-- 🌱 I _Learned_ Vue JS (Composition API), Express, PostgreSQL and TS (_2021_ - DONE)
-- ✨ I’m learning_ C# and .NET CORE and I'm building an Issue Tracker app with the aforementioned technologies 
+- 🌱 I _Learned:_ 
+  -   Vue JS (Composition API), Express, PostgreSQL and TS (_2021_ - DONE)
+  -   C# and .NET CORE (_2021 - 2022_ - DONE)
 - 💞️ I’m _planning to learn_ 
   -   NUXT 3 (I have an idea for a Firefox plugin that I want to create in NUXT) (_2022_),
   -   RUST (I want to learn create some CLI related tools) (_2022 - 2023_), 
-  -   DOCKER  and some DevOps related stuff next (_2022 - 2023_)
+  -   DOCKER (started with the basics)  and some DevOps related stuff next (_2022 - 2023_)
   
 - 📖 I'm _reading_ Web Scalability for Startup Engineers by Artur Ejsmont
 
