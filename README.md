@@ -1,22 +1,18 @@
-- 👋 Hi, I’m @JDN89
-- 📨 Contact: `jan.de.niels <at> gmail.com`
+:wave: Hello,
 
-- 🌱 I _Learned:_ 
-  -   Vue JS (Composition API), Express, PostgreSQL and TS (_2021_ - DONE)
-  -   C# and .NET CORE (_2021 - 2022_ - DONE)
-- 💞️ I’m _planning to learn_ 
-  -   NUXT 3 (I have an idea for a Firefox plugin that I want to create in NUXT) (_2022_),
-  -   RUST (I want to learn create some CLI related tools) (_2022 - 2023_), 
-  -   DOCKER (started with the basics)  and some DevOps related stuff next (_2022 - 2023_)
-  
-- 📖 I'm _reading_ Web Scalability for Startup Engineers by Artur Ejsmont
+I'm Jan, an economist with a passion for coding, welcome to my github page.
 
-- 📕 what I read:
-  -   Head First Javascript (_2019_)
-  -   A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow (_2021_)   
-  -   C# in Depth by Jon Skeet -4th edition (_2022_)
-  -   Clean Architecture by Robert Cecil Martin (75% - 2022)
+- 📖 I am __currently learning__
+  - Rust: I spend a lot of time working in the terminal (💞️ Neovim) and I want to create some awsome CLI tools to improve my workflow 
+  - Nuxt: I'm currently building my personal webiste with [Nuxt Content V2](https://content.nuxtjs.org/blog/announcing-v2)
   
+- 🌱 What I __plan on learning next__: 
+  >I Have an idea for a study app that I want to build out with the following tech:
+  -   [NUXT 3](https://v3.nuxtjs.org/)
+  -   [Supabase](https://supabase.com/)
+  -   [Prisma](https://www.prisma.io/)
+  -   [tRPC](https://trpc.io/)
+  -   [Vercel](https://vercel.com/docs): I want to host my app on Vercel using [Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions)
 
 <!---
 JDN89/JDN89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
