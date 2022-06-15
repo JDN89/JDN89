@@ -3,10 +3,10 @@
 I'm Jan, an economist with a passion for coding.
 
 - 📖 I am __currently learning__
+  - Azure
   - Rust: I spend a lot of time working in the terminal (💞️ Neovim) and I want to create some awsome CLI tools to improve my workflow 
   - Nuxt: I'm building my personal webiste with [Nuxt Content V2](https://content.nuxtjs.org/blog/announcing-v2)
-  - Next JS & React
-  
+    
 - 🌱 What I __plan on learning next__: 
   > I Have an idea for a study app that I want to build with the following tech:
   -   [Next JS & React](https://v3.nuxtjs.org/)
