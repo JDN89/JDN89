@@ -13,8 +13,8 @@ I'm Jan, an economist with a passion for coding.
   -   [Supabase](https://supabase.com/)
   -   [Prisma](https://www.prisma.io/)
   -   [tRPC](https://trpc.io/)
-  -   [Vercel](https://vercel.com/docs): I want to host my app on Vercel using [Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions)
-
+  -   [Vercel](https://vercel.com/docs): I want to host my app on Vercel
+ 
 <!---
 JDN89/JDN89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
