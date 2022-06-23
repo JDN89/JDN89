@@ -4,7 +4,7 @@ I'm Jan, an economist with a passion for coding.
 
 - 📖 I am __currently learning__
   - Azure
-  - Rust: I spend a lot of time working in the terminal (💞️ Neovim) and I want to create some awsome CLI tools to improve my workflow 
+  - Rust: I spend a lot of time working in the terminal and I want to create some awsome CLI tools to improve my workflow 
   - Nuxt: I'm building my personal webiste with [Nuxt Content V2](https://content.nuxtjs.org/blog/announcing-v2)
     
 - 🌱 What I __plan on learning next__: 
